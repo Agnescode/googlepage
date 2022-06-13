@@ -29,6 +29,7 @@ ul button{
     border: none;
     border-radius: 2px;
     color: white;
+    margin-right: 20px;
 }
 
 .se [href]{
@@ -46,7 +47,7 @@ form a{
 }
 
 input{
-    width: 900px;
+    width: 700px;
     height: 35PX;
 }
 
